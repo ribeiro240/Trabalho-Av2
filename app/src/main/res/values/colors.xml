@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHeader">#6C212C</color>
+    <color name="colorQuebra">#EB1130</color>
+    <color name="colorOutro">#AF5E69</color>
+    <color name="colorSobre">#9F3140</color>
+    <color name="colorBack">#FFF</color>
+</resources>

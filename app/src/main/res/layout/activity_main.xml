@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBack"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/Menu"
+        android:text="Sobre"
+        android:background="@color/colorSobre"
+        android:onClick="sobreActivity"
+        />
+
+    <TextView
+        style="@style/Menu"
+        android:text="Quebra-Cabeça"
+        android:background="@color/colorQuebra"
+        android:onClick="quebraCabecaActivity"
+        />
+
+    <TextView
+        style="@style/Menu"
+        android:text="Slider"
+        android:background="@color/colorOutro"
+        android:onClick="sliderActivity"/>
+</LinearLayout>
